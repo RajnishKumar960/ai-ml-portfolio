@@ -48,10 +48,13 @@ export default defineConfig({
       '@': path.resolve(__dirname, './src'),
     },
   },
+
+  // ✅ Fix for Vercel (output → dist)
   build: {
     target: 'esnext',
-    outDir: 'build',  // ✅ FIXED
+    outDir: 'dist',
   },
+
   server: {
     port: 3000,
     open: true,
