@@ -1,7 +1,7 @@
 
   # Integrate React Component
 
-  This is a code bundle for Integrate React Component. The original project is available at https://www.figma.com/design/MpTbU0TDPZYQj5GEGEAn11/Integrate-React-Component.
+  This is a code bundle for Integrate React Component. The original project is available at (https://ai-ml-portfolio-d36u.vercel.app/)
 
   ## Running the code
 
