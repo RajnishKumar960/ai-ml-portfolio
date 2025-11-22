@@ -286,9 +286,9 @@ function AppContent() {
           </CardHeader>
           <CardContent className="space-y-6">
             <div className="border-l-4 border-orange-500 dark:border-orange-400 pl-4">
-              <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Bachelor of Computer Application (BCA)</h4>
-              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">Mahatma Gandhi Kashi Vidyapeeth, Mathal, Punjab</p>
-              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">North Campus, Chandigarh University</p>
+              <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Master's of Computer Application (MCA)</h4>
+              {/* <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">Mahatma Gandhi Kashi Vidyapeeth, Mathal, Punjab</p> */}
+              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">Chandigarh University</p>
               <p className="text-slate-500 dark:text-slate-500 transition-colors duration-500">Graduation: June 2025</p>
               <p className="text-orange-600 dark:text-orange-400 mt-2 transition-colors duration-500">Relevant coursework: Software Engineering, Web Application Development, DevOps, Database Management Systems, Data Structures and Algorithms, Computer Networks, Operating Systems, Artificial Intelligence, IAB, Computer System Architecture, Data Analytics.</p>
             </div>
@@ -296,9 +296,9 @@ function AppContent() {
             <Separator className="dark:bg-slate-600" />
             
             <div className="border-l-4 border-orange-500 dark:border-orange-400 pl-4">
-              <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Diploma in Computer Science Engineering</h4>
-              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">Vysa University, Hazaribagh, Jharkhand</p>
-              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">J.I College Kodarma, VBSU, Hazaribagh, Jharkhand</p>
+              <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Bachelor of Computer Application(BCA) </h4>
+              <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">Vinowa Bhawe University, Hazaribagh, Jharkhand</p>
+              {/* <p className="text-slate-600 dark:text-slate-400 transition-colors duration-500">J.I College Kodarma, VBSU, Hazaribagh, Jharkhand</p> */}
               <p className="text-slate-500 dark:text-slate-500 transition-colors duration-500">Graduation: May 2022</p>
               <p className="text-orange-600 dark:text-orange-400 mt-2 transition-colors duration-500">Relevant coursework: Software Engineering, Web Application Development, Database Management Systems, Python Programming, Computer System Architecture.</p>
             </div>
@@ -321,7 +321,7 @@ function AppContent() {
                   <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Concentrix, Jaipur, Rajasthan</h4>
                   <p className="text-orange-600 dark:text-orange-400 transition-colors duration-500">Senior Advisor | Senior Advisor Analyst</p>
                 </div>
-                <p className="text-slate-500 dark:text-slate-400 transition-colors duration-500">Sep 2019 - Mar 2025</p>
+                <p className="text-slate-500 dark:text-slate-400 transition-colors duration-500">Sep 2019 - Mar 2023</p>
               </div>
               <ul className="list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300 mt-3 transition-colors duration-500">
                 <li>Analyzed customer interactions and delivered data-driven, tailored solutions as a Senior Advisor at Concentrix</li>
@@ -337,14 +337,14 @@ function AppContent() {
             <div className="border-l-4 border-blue-500 dark:border-blue-400 pl-4">
               <div className="flex justify-between items-start flex-wrap gap-2 mb-2">
                 <div>
-                  <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">Teleperformance, Jaipur, Rajasthan</h4>
-                  <p className="text-orange-600 dark:text-orange-400 transition-colors duration-500">Technical Support Executive</p>
+                  <h4 className="text-slate-900 dark:text-slate-100 transition-colors duration-500">ReqX Technologies Pvt. Ltd. </h4>
+                  <p className="text-orange-600 dark:text-orange-400 transition-colors duration-500">Software Engineer</p>
                 </div>
-                <p className="text-slate-500 dark:text-slate-400 transition-colors duration-500">Feb 2023 - Oct 2023</p>
+                <p className="text-slate-500 dark:text-slate-400 transition-colors duration-500">April 2023 - Present</p>
               </div>
               <ul className="list-disc list-inside space-y-2 text-slate-700 dark:text-slate-300 mt-3 transition-colors duration-500">
-                <li>Delivered end-to-end technical support for Asus consumer products, addressing hardware, software, and connectivity issues, ensuring 95% customer satisfaction</li>
-                <li>Troubleshot laptops, desktops, tablets, and smartphones, identifying system failures, running diagnostics, and providing clear communication and timely resolution of technical problems</li>
+                <li> Developed and build software development lifecycle by debugging applications, improving code efficiency, and resolving system-level issues. </li>
+                <li>Enhanced application performance and stability by implementing fixes, conducting root-cause analysis, and collaborating with engineering teams to deliver reliable and scalable solutions.</li>
               </ul>
             </div>
           </CardContent>
@@ -617,7 +617,7 @@ function AppContent() {
 
         {/* Footer */}
         <div className="mt-16 text-center text-slate-600 dark:text-slate-400 pb-8 transition-colors duration-500">
-          <p>© 2025 Rajnish Kumar. Built with React, TypeScript, and Tailwind CSS.</p>
+          <p>© 2025 Rajnish Kumar. All rights reserved</p>
         </div>
       </div>
     </div>
